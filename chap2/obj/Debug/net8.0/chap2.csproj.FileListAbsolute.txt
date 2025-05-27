@@ -12,3 +12,4 @@ C:\repos\max\c-sharp-repos\c-sharp-review\chap2\obj\Debug\net8.0\refint\chap2.dl
 C:\repos\max\c-sharp-repos\c-sharp-review\chap2\obj\Debug\net8.0\chap2.pdb
 C:\repos\max\c-sharp-repos\c-sharp-review\chap2\obj\Debug\net8.0\chap2.genruntimeconfig.cache
 C:\repos\max\c-sharp-repos\c-sharp-review\chap2\obj\Debug\net8.0\ref\chap2.dll
+C:\repos\max\c-sharp-repos\c-sharp-review\chap2\obj\Debug\net8.0\chap2.sourcelink.json
