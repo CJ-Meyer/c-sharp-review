@@ -1,0 +1,15 @@
+C:\repos\max\c-sharp-repos\c-sharp-review\Chap05\bin\Debug\net8.0\Chap05.exe
+C:\repos\max\c-sharp-repos\c-sharp-review\Chap05\bin\Debug\net8.0\Chap05.deps.json
+C:\repos\max\c-sharp-repos\c-sharp-review\Chap05\bin\Debug\net8.0\Chap05.runtimeconfig.json
+C:\repos\max\c-sharp-repos\c-sharp-review\Chap05\bin\Debug\net8.0\Chap05.dll
+C:\repos\max\c-sharp-repos\c-sharp-review\Chap05\bin\Debug\net8.0\Chap05.pdb
+C:\repos\max\c-sharp-repos\c-sharp-review\Chap05\obj\Debug\net8.0\Chap05.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\max\c-sharp-repos\c-sharp-review\Chap05\obj\Debug\net8.0\Chap05.AssemblyInfoInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-review\Chap05\obj\Debug\net8.0\Chap05.AssemblyInfo.cs
+C:\repos\max\c-sharp-repos\c-sharp-review\Chap05\obj\Debug\net8.0\Chap05.csproj.CoreCompileInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-review\Chap05\obj\Debug\net8.0\Chap05.sourcelink.json
+C:\repos\max\c-sharp-repos\c-sharp-review\Chap05\obj\Debug\net8.0\Chap05.dll
+C:\repos\max\c-sharp-repos\c-sharp-review\Chap05\obj\Debug\net8.0\refint\Chap05.dll
+C:\repos\max\c-sharp-repos\c-sharp-review\Chap05\obj\Debug\net8.0\Chap05.pdb
+C:\repos\max\c-sharp-repos\c-sharp-review\Chap05\obj\Debug\net8.0\Chap05.genruntimeconfig.cache
+C:\repos\max\c-sharp-repos\c-sharp-review\Chap05\obj\Debug\net8.0\ref\Chap05.dll
